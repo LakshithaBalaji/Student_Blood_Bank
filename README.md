@@ -8,7 +8,7 @@ Student's Blood Bank website project based on online blood donation. This  is a 
 # Screenshot
 
 
-![Main Page Screenshot](Screenshot_2024-07-20_233330.png)
+![Main Page Screenshot](mainpage.png)
 
 
 
